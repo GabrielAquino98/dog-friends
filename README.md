@@ -18,9 +18,9 @@ O aplicativo deve estar em sua versão final até novembro/2019
 
 Links:
 
-:link:
+:link: https://usemobile.com.br/gateway-de-pagamento/
 
-:link:
+:link: https://usemobile.com.br/aplicativo-semelhante-ao-uber/
 
 :link:
 
