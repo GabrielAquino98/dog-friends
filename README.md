@@ -1,13 +1,13 @@
-# dog-friends
+# DOG-FRIENDS
 :dog: repositorio construido afim de facilitar versionamento da aplicação :dog:
 
 ## Por que:
 
-A Aplicação tem como fim direcionar um usuario que tem interesse em pagar pelo serviço de dog-walker :dog2::walking:
+A Aplicação tem como objetivo direcionar usuarios que tem comum interesse pelo serviço de dog-walker :dog2::walking:
 
 ## Como fazer:
 
-o aplicativo será desenvolvido utilizando a linguaguem python :python:, com os frameworks
+o aplicativo será desenvolvido utilizando a linguaguem python :snake:, com os frameworks
 
 * Django REST framework
 * Ionic framework
@@ -26,7 +26,7 @@ O aplicativo deve estar em sua versão final até novembro/2019
 
 :link: https://usemobile.com.br/aplicativo-semelhante-ao-uber/
 
-:link:
+:link: 
 
 :link:
 
