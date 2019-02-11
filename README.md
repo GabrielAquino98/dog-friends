@@ -16,6 +16,10 @@ o aplicativo será desenvolvido utilizando a linguaguem python, com os framework
 	
 O aplicativo deve estar em sua versão final até novembro/2019
 
+## Kanban:
+
+* [Projeto no kanban](https://github.com/GabrielAquino98/dog-friends/projects/1)
+
 ## Links:
 
 :link: https://usemobile.com.br/gateway-de-pagamento/
