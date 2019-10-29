@@ -7,9 +7,9 @@ A Aplicação tem como objetivo direcionar usuarios que tem comum interesse pelo
 
 ## Como fazer:
 
-o aplicativo será desenvolvido utilizando a linguaguem python :snake:, com os frameworks
+o aplicativo será desenvolvido utilizando Angular e Firebase :fire:, com os frameworks
 
-* Django REST framework
+* Firebase
 * Ionic framework
 
 ## Prazo :calendar::
